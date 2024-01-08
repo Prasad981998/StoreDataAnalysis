@@ -1,5 +1,9 @@
 # Overview
 The objective is to conduct a comprehensive analysis of the retail store's performance using data sources and analytics techniques. This project aims to provide actionable insights to optimize operations, enhance customer experience and drive strategic decision-making within the organization. This project analyzes data of customers based on gender, age, states, channels and provides insights.
+
+
+![innerpage](https://github.com/Prasad981998/StoreDataAnalysis/blob/main/StoreDataAnalysis.PNG)
+*Caption: This is dashboard.*
 - 	Data gathering, cleaning and processing of retail store’s data.
 - 	Customer Segmentation.
 - 	Data analysis for inventory management and continuous improvement.
